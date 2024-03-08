@@ -17,12 +17,12 @@ plugins:
   - jekyll-seo-tag
 
 
-title: I have 8 cents to share # the main title
+title: Maximize Your Finances from 8 Cents # the main title
 
 tagline: Travel | Personal Finance | Points | Deal Hunter # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  I have 8 cents to share
+  Maximize Your Finances and Savings from 8 Cents
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
